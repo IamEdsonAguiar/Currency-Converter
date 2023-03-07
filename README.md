@@ -11,7 +11,7 @@ convert all major world currencies.
 
 <table>
    <tr>
-      <td><a href="https://qr-code-generator-2.vercel.app/">Use the app</a></td>
+      <td><a href="https://currency-converter-red.vercel.app/">Use the app</a></td>
    </tr>
 </table>
 
